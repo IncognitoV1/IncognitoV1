@@ -48,7 +48,7 @@ class IncognitoV1 {
     ];
 
     public function about(): string{
-        return "Developer specialized in advanced Bedrock systems";
+        return "Developer specialized in Bedrock systems";
     }
 
     public function objective(): string{
@@ -67,7 +67,7 @@ class IncognitoV1 {
 
 🇺🇸 **English**
 
-Hello, I'm **IncógnitoV1**, a developer specialized in advanced systems for **Minecraft Bedrock Edition** using **PocketMine-MP 5**.
+Hello, I'm **IncógnitoV1**, a developer specialized in systems for **Minecraft Bedrock Edition** using **PocketMine-MP 5**.
 
 I focus on creating:
 - ⚔️ Competitive HCF systems
@@ -89,16 +89,16 @@ I enjoy pushing Bedrock servers beyond their limits while experimenting with new
 
 🇪🇸 **Español**
 
-Hola, soy **IncógnitoV1**, un desarrollador especializado en sistemas avanzados para **Minecraft Bedrock Edition** utilizando **PocketMine-MP 5**.
+Hola, soy **IncógnitoV1**, un desarrollador especializado en sistemas para **Minecraft Bedrock Edition** utilizando **PocketMine-MP 5**.
 
 Me enfoco en crear:
 - ⚔️ Sistemas competitivos HCF
-- 🎮 Mecánicas PvP avanzadas
+- 🎮 Mecánicas PvP
 - 🚀 Plugins optimizados
 - 🌌 Experiencias custom
 - 📦 Sistemas backend
 - 🤖 Integraciones con Discord
-- 🔥 Sistemas de combate optimizados
+- 🔥 Sistemas de combate optimizados (1.19+)
 - 🛠 Herramientas y utilidades para servidores
 
 Me gusta llevar los servidores Bedrock más allá de sus límites experimentando con nuevas mecánicas, funciones e ideas.
@@ -123,13 +123,13 @@ Me gusta llevar los servidores Bedrock más allá de sus límites experimentando
 
 | System | Level |
 |---|---|
-| ⚔️ HCF Cores | Advanced |
-| 🔥 PvP Mechanics | Advanced |
-| 📦 PocketMine Plugins | Advanced |
-| 🚀 Optimization | Advanced |
+| ⚔️ HCF Cores |
+| 🔥 PvP Mechanics |
+| 📦 PocketMine Plugins |
+| 🚀 Optimization |
 | 🤖 Discord Bots | Intermediate |
 | 🌌 Custom Events | Advanced |
-| 🛠 Backend Systems | Advanced |
+| 🛠 Backend Systems |
 | 🎮 Server Utilities | Advanced |
 
 ---
@@ -150,13 +150,13 @@ Developing a competitive and fully optimized HCF core featuring:
 - advanced utilities
 
 🇪🇸
-Desarrollando un core HCF competitivo y totalmente optimizado con:
+Desarrollando un core HCF competitiva y totalmente optimizado con:
 - abilities personalizadas
 - combate optimizado
 - sistemas de eventos
 - economía
 - timers
-- mecánicas KOTH
+- KOTHs (dinamico)
 - optimización del servidor
 - utilidades avanzadas
 
