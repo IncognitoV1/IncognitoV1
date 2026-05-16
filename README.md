@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile+Views&color=7e22ce&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=IncognitoV1&label=Profile+Views&color=7e22ce&style=for-the-badge"/>
 
 </div>
 
@@ -217,15 +217,15 @@ Disfruta programar.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IncognitoV1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitoV1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IncognitoV1&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
