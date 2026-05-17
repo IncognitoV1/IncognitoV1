@@ -1,67 +1,8 @@
 <div align="center">
 
-<svg width="100%" height="320" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#05010d"/>
-      <stop offset="100%" stop-color="#120024"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Fondo -->
-  <rect width="100%" height="100%" fill="url(#bg)"/>
-
-  <!-- Glow -->
-  <circle cx="50%" cy="160" r="120" fill="#7e22ce22"/>
-
-  <!-- Burbujas -->
-
-  <circle cx="10%" cy="340" r="5" fill="#06b6d499">
-    <animate attributeName="cy" values="340;-40" dur="8s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="20%" cy="360" r="8" fill="#7e22ce88">
-    <animate attributeName="cy" values="360;-50" dur="11s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="35%" cy="330" r="6" fill="#22d3ee88">
-    <animate attributeName="cy" values="330;-30" dur="7s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="50%" cy="350" r="10" fill="#a855f788">
-    <animate attributeName="cy" values="350;-40" dur="12s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="65%" cy="370" r="7" fill="#06b6d488">
-    <animate attributeName="cy" values="370;-30" dur="9s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="80%" cy="340" r="5" fill="#c084fc88">
-    <animate attributeName="cy" values="340;-40" dur="10s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="90%" cy="360" r="9" fill="#22d3ee88">
-    <animate attributeName="cy" values="360;-50" dur="13s" repeatCount="indefinite"/>
-  </circle>
-
-<text
-x="50%"
-y="52%"
-text-anchor="middle"
-fill="#ffffff"
-font-size="42"
-font-family="Arial"
-font-weight="bold"
-filter="url(#glow)">
-IncógnitoV1
-</text>
-
-</svg>
+<img src="./assets/header.svg" width="100%"/>
 
 </div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7e22ce,100:06b6d4&text=IncógnitoV1&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 
