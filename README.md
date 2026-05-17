@@ -45,19 +45,17 @@
     <animate attributeName="cy" values="360;-50" dur="13s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Texto -->
-  <text
-    x="50%"
-    y="52%"
-    text-anchor="middle"
-    fill="#ffffff"
-    font-size="42"
-    font-family="Arial"
-    font-weight="bold">
-
-    IncógnitoV1
-
-  </text>
+<text
+x="50%"
+y="52%"
+text-anchor="middle"
+fill="#ffffff"
+font-size="42"
+font-family="Arial"
+font-weight="bold"
+filter="url(#glow)">
+IncógnitoV1
+</text>
 
 </svg>
 
