@@ -179,19 +179,19 @@ Keep systems simple.
 <tr>
 <td width="50%" valign="top">
 
-### 🇬🇧 English
-I'm always open to discussing PocketMine-MP, or plugins.
+### 🇺🇸
+I enjoy collaborating with developers, creating innovative systems and helping improve the Minecraft Bedrock community.
 </td>
 <td width="50%" valign="top">
 
-### 🇪🇸 Español
-Siempre estoy abierto a charlar sobre proyectos,de PocketMine-MP o plugins.
+### 🇪🇸
+Me gusta colaborar con developers, crear sistemas innovadores y ayudar a mejorar la comunidad de Minecraft Bedrock.
 </td>
 </tr>
 <div align="center">
 
-<a href="https://discord.com/users/incognito.v1">
-      <img src="https://img.shields.io/badge/Discord-IncognitoV1-5865F2?style=for-the-badge&logo=discord&logoColor=purple" alt="Discord" />
+<a href="https://discord.com/users/1307400655614509179">
+      <img src="https://img.shields.io/badge/Discord-IncognitoV1-5865F2?style=for-the-badge&logo=discord&logoColor=cyan" alt="Discord" />
 </a>
 
   <a href="mailto:incognito.v1dev.com">
