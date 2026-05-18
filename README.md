@@ -191,7 +191,7 @@ Siempre estoy abierto a charlar sobre proyectos,de PocketMine-MP o plugins.
 <div align="center">
 
 <a href="https://discord.com/users/incognito.v1">
-      <img src="https://img.shields.io/badge/Discord-sxvape-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-IncognitoV1-5865F2?style=for-the-badge&logo=discord&logoColor=purple" alt="Discord" />
 </a>
 
   <a href="mailto:incognito.v1dev.com">
