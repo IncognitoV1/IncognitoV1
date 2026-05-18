@@ -173,17 +173,30 @@ Keep systems simple.
 
 ---
 
-# 📩 Contact | Contacto
+## 🤝 Let's Connect | Contacto
 
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+I'm always open to discussing PocketMine-MP, or plugins.
+</td>
+<td width="50%" valign="top">
+
+### 🇪🇸 Español
+Siempre estoy abierto a charlar sobre proyectos,de PocketMine-MP o plugins.
+</td>
+</tr>
 <div align="center">
 
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-Contact-7e22ce?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/incognito.v1">
+      <img src="https://img.shields.io/badge/Discord-sxvape-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
-<a href="mailto:example@mail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:incognito.v1dev.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
