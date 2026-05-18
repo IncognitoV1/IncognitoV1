@@ -75,8 +75,8 @@ I am **IncógnitoV1**, a Minecraft Bedrock developer specialized in **PocketMine
 
 I build systems focused on:
 
-- ⚔️ Competitive HCF cores  
-- 🎮 Advanced PvP combat systems  
+- ⚔️ HCF cores  
+- 🎮 PvP combat systems  
 - 🚀 High-performance plugin development  
 - 🌌 Scalable server architectures  
 - 📦 Backend systems (MySQL, SQLite, async pipelines)  
@@ -95,10 +95,10 @@ Soy **IncógnitoV1**, desarrollador de Minecraft Bedrock especializado en **Pock
 
 Me enfoco en:
 
-- ⚔️ Core HCF competitivo  
-- 🎮 Mecánicas PvP avanzadas  
+- ⚔️ Core HCF  
+- 🎮 Mecánicas PvP  
 - 🚀 Plugins optimizados  
-- 🌌 Arquitecturas escalables de servidor  
+- 🌌 Arquitecturas escalables de servidores
 - 📦 Sistemas backend (MySQL / SQLite / async)  
 - 🤖 Integraciones con Discord  
 - 🔥 Optimización de rendimiento  
