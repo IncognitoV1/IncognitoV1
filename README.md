@@ -76,7 +76,7 @@ My goal is to build reliable server infrastructures, maintainable codebases and 
 
 Minecraft Bedrock Competitive Server
 
-<img src="./assets/cotepvp-banner.jpg" width="100%"/>
+<a href="https://ibb.co/n8snzBXQ"><img src="https://i.ibb.co/x8SfJYnz/IMG-20260622-WA0010.jpg" alt="IMG-20260622-WA0010" border="0"></a> width="100%"/>
 
 </div>
 
