@@ -179,6 +179,41 @@ Performance analysis and optimization.
 
 ---
 
+# 🌟 Featured Project
+
+<div align="center">
+
+### ⚔️ CoTe PvP
+
+Minecraft Bedrock Competitive Server
+
+<img src="./assets/cotepvp-banner.jpg" width="100%"/>
+
+</div>
+
+> A custom Minecraft Bedrock experience powered by PocketMine-MP 5.
+
+### Core Systems
+
+- Combat Logger
+- KOTH
+- PvP Timers
+- Economy
+- Custom Events
+- Discord Sync
+- Staff Utilities
+- Backend Systems
+
+### Development Role
+
+Lead Developer & Systems Architect
+
+### Current Status
+
+🟢 Online & Under Active Development
+
+---
+
 🌌 Philosophy
 
 «Great systems are not measured by their size, but by their reliability.»
