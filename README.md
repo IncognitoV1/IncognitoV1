@@ -1,90 +1,82 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:06B6D4,100:7E22CE&text=IncognitoV1&fontColor=ffffff&fontSize=80&animation=fadeIn&fontAlignY=40"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=PocketMine-MP+5+Developer;Minecraft+Bedrock+Specialist;HCF+Core+Developer;PvP+Systems+Engineer;Backend+Systems+Developer"/><br><img src="https://img.shields.io/badge/PocketMine--MP%205-06B6D4?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=IncognitoV1&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=PocketMine-MP+5+Developer;Minecraft+Bedrock+Specialist;HCF+Core+Developer;Backend+Systems+Developer;Building+Reliable+Server+Architectures"/><br><img src="https://img.shields.io/badge/PocketMine--MP%205-06B6D4?style=for-the-badge&logo=minecraft&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-7E22CE?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-0891B2?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-7E22CE?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Minecraft%20Bedrock-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HCF%20Development-581C87?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/SQLite-6D28D9?style=for-the-badge&logo=sqlite&logoColor=white"/><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=IncognitoV1&label=Profile%20Views&color=7E22CE&style=for-the-badge"/></div>---
 
 👋 About Me
 
-<?php
+I'm IncognitoV1, a developer focused on creating scalable and optimized systems for Minecraft Bedrock Edition using PocketMine-MP 5.
 
-namespace IncognitoV1;
+My goal is to build reliable server infrastructures, maintainable codebases and high-performance gameplay systems.
 
-class Developer {
-
-    public string $language = "PHP";
-    public string $framework = "PocketMine-MP 5";
-    public string $specialization = "Minecraft Bedrock Development";
-
-    public array $expertise = [
-        "HCF Core Development",
-        "PvP Systems",
-        "PocketMine Plugins",
-        "Backend Architectures",
-        "Discord Integrations",
-        "Performance Optimization",
-        "Database Systems",
-        "Custom Game Mechanics"
-    ];
-
-    public function mission(): string {
-        return "Building scalable and optimized Minecraft Bedrock systems.";
-    }
-
-    public function philosophy(): string {
-        return "Performance, stability and maintainability.";
-    }
-}
-
----
-
-🚀 What I Do
-
-I specialize in developing advanced systems for Minecraft Bedrock servers using PocketMine-MP 5.
-
-Main Areas
+🎯 Specializations
 
 - ⚔️ HCF Core Development
 - 🎮 PvP Mechanics
-- 🚀 Custom PocketMine Plugins
+- 🚀 PocketMine Plugins
 - 📦 Backend Systems
+- 🗄 MySQL & SQLite
 - 🤖 Discord Integrations
 - 🔥 Performance Optimization
-- 🛡 Server Security
-- 🌐 Database Architectures
+- 🛡 Server Utilities
 
 ---
 
-📈 Experience
+🚀 Tech Stack
 
-- 🚀 Multiple PocketMine Plugins Developed
-- ⚔️ HCF Systems and Core Architectures
-- 📦 MySQL & SQLite Integrations
-- 🤖 Discord Synchronization Systems
-- 🔥 Server Optimization Solutions
-- 🛠 Custom Utility Systems
-- 🎮 PvP Gameplay Enhancements
+<div align="center"><img src="https://skillicons.dev/icons?i=php,mysql,sqlite,git,github,vscode"/></div>---
+
+⚡ Development Areas
+
+⚔️ HCF Development
+
+- Combat Logger
+- KOTH Systems
+- SOTW Events
+- Team Management
+- Claims System
+- Economy Systems
+- Staff Utilities
+
+🎮 PvP Systems
+
+- Combat Tracking
+- Cooldowns
+- Ability Systems
+- Match Systems
+- Custom Mechanics
+- PvP Timers
+
+📦 Backend Development
+
+- MySQL Integration
+- SQLite Integration
+- Async Queries
+- Player Data Storage
+- Statistics Systems
+- Database Optimization
+
+🤖 Discord Integrations
+
+- Webhooks
+- Staff Notifications
+- Event Broadcasting
+- Server Synchronization
+- Moderation Utilities
 
 ---
 
-🛠 Tech Stack
+📈 Current Focus
 
-<div align="center"><img src="https://skillicons.dev/icons?i=php,mysql,sqlite,js,java,html,css,git,github,vscode"/></div>---
+Currently working on:
 
-⚔️ Development Areas
-
-Area| Focus
-HCF Core Development| Advanced
-PvP Systems| Advanced
-PocketMine Plugins| Advanced
-Backend Development| Advanced
-Database Design| Advanced
-Discord Integrations| Advanced
-Performance Optimization| Advanced
-Server Utilities| Advanced
+- Advanced HCF Framework
+- Modular PocketMine Architectures
+- High Performance PvP Systems
+- Database Optimization
+- Discord Synchronization Systems
 
 ---
 
@@ -92,101 +84,85 @@ Server Utilities| Advanced
 
 ⚔️ HCF Core Framework
 
-Features:
+Complete HCF infrastructure featuring:
 
-- Combat Logger
-- KOTH System
-- SOTW Events
-- Team Management
-- Faction Claims
+- Team System
+- KOTH Events
 - PvP Timers
-- Economy System
-- Staff Utilities
-- Custom Commands
+- Combat Logger
+- Economy
+- Staff Tools
+- Event Management
 
 ---
 
-🎮 PvP Systems
+🎮 PvP Engine
 
-Features:
+Advanced combat framework including:
 
-- Cooldowns
-- Ability Systems
+- Cooldown Systems
 - Combat Tracking
-- Anti Abuse Mechanics
-- Hit Detection Improvements
-- Match Systems
+- Ability Management
+- Anti-Abuse Mechanics
+- Performance Optimizations
 
 ---
 
-📦 Backend Systems
+📦 Storage Framework
 
-Features:
+Backend solution designed for:
 
-- MySQL Integration
-- SQLite Support
+- MySQL
+- SQLite
+- Async Operations
 - Data Synchronization
-- Async Queries
-- Player Statistics
-- Modular Storage Systems
+- High Performance Queries
 
 ---
 
-🤖 Discord Integrations
+🤖 Discord Bridge
 
-Features:
+Integration system featuring:
 
-- Webhooks
-- Player Synchronization
-- Staff Notifications
-- Moderation Utilities
-- Event Broadcasting
-
----
-
-🎯 Current Focus
-
-Currently working on:
-
-- Advanced HCF Framework
-- Modular PocketMine Architectures
-- High Performance PvP Systems
-- Backend Optimization
-- Modern Discord Integrations
+- Discord Webhooks
+- Server Notifications
+- Staff Alerts
+- Event Announcements
+- Synchronization Utilities
 
 ---
 
 💼 Services
 
-PocketMine-MP Development
+🚀 PocketMine-MP Development
 
 Custom plugins built for performance and scalability.
 
-HCF Development
+⚔️ HCF Development
 
 Complete HCF server infrastructures.
 
-PvP Systems
+🎮 PvP Systems
 
 Advanced combat mechanics and PvP features.
 
-Backend Development
+📦 Backend Development
 
-MySQL, SQLite and custom storage solutions.
+Storage systems, APIs and database architectures.
 
-Discord Integrations
+🤖 Discord Integrations
 
-Bots, webhooks and synchronization systems.
+Bots, webhooks and synchronization solutions.
 
-Server Optimization
+🔥 Server Optimization
 
-Performance improvements and architecture reviews.
+Performance analysis and optimization.
 
 ---
 
 📊 GitHub Statistics
 
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=IncognitoV1&show_icons=true&theme=midnight-purple&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitoV1&layout=compact&theme=midnight-purple&hide_border=true"/></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=IncognitoV1&theme=midnight-purple&hide_border=true"/></div>---
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=IncognitoV1&show_icons=true&theme=midnight-purple&hide_border=true"/></div><br><div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=IncognitoV1&theme=midnight-purple&hide_border=true"/></div>---
 
 🏆 Achievements
 
@@ -209,7 +185,7 @@ Performance improvements and architecture reviews.
 
 ---
 
-🤝 Let's Connect
+🤝 Connect With Me
 
 <div align="center"><a href="https://discord.com/users/1307400655614509179">
 <img src="https://img.shields.io/badge/Discord-IncognitoV1-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -217,7 +193,7 @@ Performance improvements and architecture reviews.
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></div>---
 
-<div align="center">⚡ PocketMine-MP Developer
+<div align="center">⚡ PocketMine-MP 5 Developer
 
 🎮 Minecraft Bedrock Specialist
 
