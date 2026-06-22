@@ -68,6 +68,41 @@ My goal is to build reliable server infrastructures, maintainable codebases and 
 
 ---
 
+🌟 Featured Project
+
+<div align="center">
+
+### ⚔️ CoTe PvP
+
+Minecraft Bedrock Competitive Server
+
+<img src="./assets/cotepvp-banner.jpg" width="100%"/>
+
+</div>
+
+> A custom Minecraft Bedrock experience powered by PocketMine-MP 5.
+
+### Core Systems
+
+- Combat Logger
+- KOTH
+- PvP Timers
+- Economy
+- Custom Events
+- Discord Sync
+- Staff Utilities
+- Backend Systems
+
+### Development Role
+
+Lead Developer & Systems Architect
+
+### Current Status
+
+🟢 Online & Under Active Development
+
+---
+
 📈 Current Focus
 
 Currently working on:
@@ -176,41 +211,6 @@ Performance analysis and optimization.
 - Scalable architectures
 - Security-focused development
 - Long-term sustainability
-
----
-
-# 🌟 Featured Project
-
-<div align="center">
-
-### ⚔️ CoTe PvP
-
-Minecraft Bedrock Competitive Server
-
-<img src="./assets/cotepvp-banner.jpg" width="100%"/>
-
-</div>
-
-> A custom Minecraft Bedrock experience powered by PocketMine-MP 5.
-
-### Core Systems
-
-- Combat Logger
-- KOTH
-- PvP Timers
-- Economy
-- Custom Events
-- Discord Sync
-- Staff Utilities
-- Backend Systems
-
-### Development Role
-
-Lead Developer & Systems Architect
-
-### Current Status
-
-🟢 Online & Under Active Development
 
 ---
 
